@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="eligibilitySummary"/>
+	<classpathentry kind="src" path="cancelTransaction"/>
+	<classpathentry kind="src" path="eligibility"/>
+	<classpathentry kind="src" path="pendingInquiries"/>
+	<classpathentry kind="src" path="estimateCalculation"/>
+	<classpathentry kind="src" path="payers"/>
+	<classpathentry kind="src" path="authorization"/>
+	<classpathentry kind="src" path="VerifyEligibility"/>
+	<classpathentry kind="src" path="GetEligibility"/>
+	<classpathentry kind="src" path="GetEligibilitySingelValueAPIKeys"/>
+	<classpathentry kind="lib" path="C:/Users/Logan/Downloads/okhttp-4.0.0-alpha01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Logan/Downloads/okio-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Logan/Downloads/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Logan/Downloads/jar_files/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Logan/Downloads/jar_files/kotlin-stdlib-1.3.31.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Logan/Downloads/jar_files/kotlin-stdlib-common-1.3.31.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
