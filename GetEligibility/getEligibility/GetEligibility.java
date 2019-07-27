@@ -23,7 +23,7 @@ public void setJson(String url, String token) throws IOException {
 			  .url(url)
 			  .get()
 			  .addHeader("Authorization", "Bearer " + token)
-			  .addHeader("Client-User-Name", "")
+			  .addHeader("Client-User-Name", "XXX")
 			  .build();
 	try(Response response = client.newCall(request).execute()){
 		getEligibility = response.body().string();

@@ -12,6 +12,8 @@
 	<classpathentry kind="src" path="VerifyEligibility"/>
 	<classpathentry kind="src" path="GetEligibility"/>
 	<classpathentry kind="src" path="GetEligibilitySingelValueAPIKeys"/>
+	<classpathentry kind="src" path="easyEligibilitySummary"/>
+	<classpathentry kind="src" path="GetPayerStatus"/>
 	<classpathentry kind="lib" path="C:/Users/Logan/Downloads/okhttp-4.0.0-alpha01.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Logan/Downloads/okio-2.2.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Logan/Downloads/gson-2.6.2.jar"/>
